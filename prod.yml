@@ -1,5 +1,5 @@
 version: '3.5'
-services:
+services:wwwwwwwwwwwwwwwww
   redis:
     image: "redis:alpine"
   bot:    
